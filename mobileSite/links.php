@@ -1,0 +1,31 @@
+<?php
+include 'top.php';
+?>
+<body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Mobile Apps Lab University of Pretoria</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li ><a href="index.php">Home</a></li>
+                  <li><a href="schedule.php">Schedule</a></li>
+                  <li class="active" ><a href="links.php">Quick Links</a></li>
+                  <li><a href="contact.php">Contact Us</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div class="inner cover">
+            <h1 class="cover-heading">Contact Us</h1>
+            <p class="lead">You can contact us by dropping an email at upmobileapplab@gmail.com</p>
+          </div>
+<?php
+include 'bottom.php';
+?>
