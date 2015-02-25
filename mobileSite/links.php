@@ -7,7 +7,7 @@ include 'top.php';
 
       <div class="site-wrapper-inner">
 
-        <div class="cover-container">
+        <div class="container-fluid">
 
           <div class="masthead clearfix">
             <div class="inner">
@@ -22,9 +22,16 @@ include 'top.php';
               </nav>
             </div>
           </div>
-          <div class="inner cover">
-            <h1 class="cover-heading">Contact Us</h1>
-            <p class="lead">You can contact us by dropping an email at upmobileapplab@gmail.com</p>
+          <div class="jumbotron">
+            <h1 class="cover-heading">Quick Links</h1>
+
+            <ul class ="links">
+            <ul>
+            <p>Mobile Detection</p>
+            <li><a class="links" href="http://web.wurfl.io/">WURFL</a>
+            </ul>
+            </ul>
+          </div>
           </div>
 <?php
 include 'bottom.php';

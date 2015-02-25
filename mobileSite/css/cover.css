@@ -8,7 +8,10 @@ a:focus,
 a:hover {
   color: #fff;
 }
-
+a.links
+{
+  color: #000;
+}
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
@@ -18,8 +21,9 @@ a:hover {
   background-color: #fff;
   border: 1px solid #fff;
 }
-
-
+/*
+ *Jumbotron class
+ */
 /*
  * Base structure
  */
@@ -47,6 +51,7 @@ body {
 .site-wrapper-inner {
   display: table-cell;
   vertical-align: top;
+   margin-top:10%;
 }
 .cover-container {
   margin-right: auto;
@@ -65,6 +70,7 @@ body {
 .masthead-brand {
   margin-top: 10px;
   margin-bottom: 10px;
+   float: left;
 }
 
 .masthead-nav > li {
@@ -95,6 +101,13 @@ body {
   border-bottom-color: #fff;
 }
 
+
+
+ .jumbotron
+ {
+ 	margin-top:5%;
+ 	margin-bottom:3%;
+ }
 @media (min-width: 768px) {
   .masthead-brand {
     float: left;
@@ -125,6 +138,7 @@ body {
 .mastfoot {
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
+    bottom: 0px;
 }
 
 
@@ -135,12 +149,10 @@ body {
 @media (min-width: 768px) {
   /* Pull out the header and footer */
   .masthead {
-    position: fixed;
     top: 0;
   }
   .mastfoot {
-    position: fixed;
-    bottom: 0;
+   
   }
   /* Start the vertical centering */
   .site-wrapper-inner {

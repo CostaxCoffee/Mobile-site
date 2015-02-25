@@ -7,7 +7,7 @@ include 'top.php';
 
       <div class="site-wrapper-inner">
 
-        <div class="container-fluid">
+       
 
           <div class="masthead clearfix">
             <div class="inner">

@@ -7,7 +7,7 @@ include 'top.php';
 
       <div class="site-wrapper-inner">
 
-        <div class="cover-container">
+        <div class="container-fluid">
 
           <div class="masthead clearfix">
             <div class="inner">
@@ -22,11 +22,11 @@ include 'top.php';
               </nav>
             </div>
           </div>
-          <div class="inner cover">
-            <h1 class="cover-heading">Cover your page.</h1>
-            <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
+          <div class="jumbotron">
+            <h1 class="cover-heading">Mobile Apps Lab</h1>
+            <p class="lead">Welcome to the Mobile Apps lab of the University of Pretoria website.The mobile apps lab is where you can learn all about mobile apps development and the mobile development space.The classes are fully interactive and encourage you to engage with students and lecturer.Lectures are every wednsday at 12:00 in the Mobiles app labs on IT floor 4.</p>
             <p class="lead">
-              <a href="#" class="btn btn-lg btn-default">Learn more</a>
+              Share.Create.Inovate
             </p>
           </div>
 <?php

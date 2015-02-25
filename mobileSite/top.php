@@ -17,6 +17,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="UP mobile apps lab website">
     <meta name="author" content="Rendani Kruger">
+	<meta name="author" content="Duran Cole">
+	<meta name="author" content="Michael Nunes">
     <link rel="icon" href="../../favicon.ico">
     <title>Mobile Apps Lab UP</title>
     <link href="./css/bootstrap.min.css" rel="stylesheet">
