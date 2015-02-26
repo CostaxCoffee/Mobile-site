@@ -26,10 +26,13 @@ include 'top.php';
             <h1 class="cover-heading">Quick Links</h1>
 
             <ul class ="links">
-            <ul>
-            <p>Mobile Detection</p>
-            <li><a class="links" href="http://web.wurfl.io/">WURFL</a>
-            </ul>
+				<ul>
+					<p>Mobile Detection</p>
+					<li><a class="links" href="http://web.wurfl.io/">WURFL</a></li><br/>
+					<p>JQuery</p>
+					<li><a class="links" href="http://jquery.com/">JQuery</a></li>
+					<li><a class="links" href="http://jquerymobile.com/">JQuery Mobile</a></li>
+				</ul>
             </ul>
           </div>
           </div>
