@@ -7,7 +7,7 @@ include 'top.php';
 
       <div class="site-wrapper-inner">
 
-         <div class="container-fluid">
+        <div class="container-fluid">
 			
           <div class="masthead clearfix">
             <div class="inner">
@@ -24,10 +24,19 @@ include 'top.php';
             </div>
           </div>
           <div class="jumbotron">
-            <h1 class="cover-heading">Mobile Labs Schedule.</h1>
-				<iframe src="https://www.google.com/calendar/embed?src=upmobileapplab%40gmail.com&ctz=Africa/Johannesburg" style="border: 0" width="800" height="600" frameborder="0" ></iframe>
-		  </div>
-           
+            <h1 class="cover-heading">Projects</h1>
+			<div class="lead">
+				<h3>Phone Mouse</h3>
+				<p style="color:Black">Using a phone as a computer mouse.</p><br/>
+				
+				<h3>Barcode Shopper</h3>
+				<p style="color:Black">Scan product codes and pay with cellphone while they put the goods you want together.</p><br/>
+				
+				<h3>Course Guide</h3>
+				<p style="color:Black">Guide for scholars, that allows them to find a degree tailored to their skill set and interests.</p><br/>
+			</div>
+          </div>
+          </div>
 <?php
 include 'bottom.php';
 ?>

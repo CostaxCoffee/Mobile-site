@@ -8,15 +8,16 @@ include 'top.php';
       <div class="site-wrapper-inner">
 
         <div class="container-fluid">
-
+			
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">Mobile Apps Lab University of Pretoria</h3>
+              <h3 class="masthead-brand">Mobile Applications Lab University of Pretoria</h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li ><a href="index.php">Home</a></li>
-                  <li><a href="schedule.php">Schedule</a></li>
-                  <li class="active" ><a href="links.php">Quick Links</a></li>
+                  <li><a href="index.php">Home</a></li>
+                  <li  class="active" ><a href="schedule.php">Schedule</a></li>
+				   <li><a href="projects.php">Projects</a></li>
+                  <li><a href="links.php">Quick Links</a></li>
                   <li><a href="contact.php">Contact Us</a></li>
                 </ul>
               </nav>
@@ -29,6 +30,7 @@ include 'top.php';
 				<ul>
 					<p>Mobile Detection</p>
 					<li><a class="links" href="http://web.wurfl.io/">WURFL</a></li><br/>
+					
 					<p>JQuery</p>
 					<li><a class="links" href="http://jquery.com/">JQuery</a></li>
 					<li><a class="links" href="http://jquerymobile.com/">JQuery Mobile</a></li>
