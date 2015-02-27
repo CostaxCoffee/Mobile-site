@@ -15,8 +15,8 @@ include 'top.php';
               <nav>
                 <ul class="nav masthead-nav">
                   <li><a href="index.php">Home</a></li>
-                  <li  class="active" ><a href="schedule.php">Schedule</a></li>
-				  <li><a href="projects.php">Projects</a></li>
+                  <li  ><a href="schedule.php">Schedule</a></li>
+				  <li  class="active"><a href="projects.php">Projects</a></li>
                   <li><a href="links.php">Quick Links</a></li>
                   <li><a href="contact.php">Contact Us</a></li>
                 </ul>
@@ -34,6 +34,9 @@ include 'top.php';
 				
 				<h3>Course Guide</h3>
 				<p style="color:Black">Guide for scholars, that allows them to find a degree tailored to their skill set and interests.</p><br/>
+				
+				<h3>Mobile clicker</h3>
+				<p style="color:Black">Allows users all functionality of a normal clicker but on a mobile device.</p><br/>
 			</div>
           </div>
           </div>
