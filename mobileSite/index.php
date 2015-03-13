@@ -24,10 +24,15 @@ include 'top.php';
             </div>
           </div>
           <div class="jumbotron">
-            <h1 class="cover-heading">Mobile Apps Lab</h1>
-            <p class="lead">Welcome to the Mobile Apps lab of the University of Pretoria website.The mobile apps lab is where you can learn all about mobile apps development and the mobile development space.The classes are fully interactive and encourage you to engage with students and lecturer.Lectures are every wednsday at 12:00 in the Mobiles app labs on IT floor 4.</p>
+            <h1 class="cover-heading">Mobile Applications Lab</h1>
             <p class="lead">
-              Share.Create.Inovate
+				Welcome to the Mobile Applications Lab of the University of Pretoria website.
+				The Mobile Applications Lab is where you can learn all about mobile application 
+				development and the mobile development space. The classes are fully interactive 
+				and encourage you to engage with students and lecturers. Lectures are every Wednesday 
+				at 12:30 in the Mobile Applications Labs in the IT building, floor 4, room 4-55.</p>
+            <p class="lead">
+              Share. Create. Innovate.
             </p>
           </div>
 <?php
