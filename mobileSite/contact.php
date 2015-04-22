@@ -20,7 +20,12 @@ include 'top.php';
 							<li>
 								<a href="schedule.php">Schedule</a>
 							</li>
-							 <li><a href="projects.php">Projects</a></li>
+							<li>
+								<a href="projects.php">Projects</a>
+							</li>
+							<li>
+								<a href="Conference.php">Conference</a>
+							</li>
 							<li>
 								<a href="links.php">Quick Links</a>
 							</li>
